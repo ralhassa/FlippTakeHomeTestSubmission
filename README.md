@@ -1,6 +1,11 @@
-Creating React App:
-- react bootstrap install 
-    npm install react-bootstrap-validation --save
+Running the Flopp - React App:
+
+- NodeJS/NPM
+    - to run application in development mode: npm start
+    - to run tests: npm test
+    - to build application for production: npm build
+
+
 
 Testing:
     UI (covered in App.test.js)
@@ -16,3 +21,4 @@ Testing:
     - on home component, test that all 10 items are extracted from data source 
     - on home component, verify that for a given item card the name and picture are for the same item
     - on details component, verify that the item details retrieved match the item selected on the home page
+
